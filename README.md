@@ -1,11 +1,36 @@
-# FOR FUTURE USAGE SIMPLY RUN THIS:
+# UIC BlackBoard Course Downloader
+# FOR FUTURE USAGE SIMPLY FOLLOW THESE STEPS:
+
+Note: Have **UIC Blackboard open** and **fully logged in (pass 2FA)** before running this script
+- Finish the **SET UP STEPS**: clone this repo, python3
+- Open the unzipped folder (after downloaded) in a **CODE EDITOR (VSCode)** with **TERMINAL** ready
+- **FINISH SET UP**: install required modules (if not already) by pasting `pip3 install -r requirements.txt` in the terminal
+- Run this **EXECUTING COMMAND** in your terminal:
 ```txt
 python3 main.py -u [YOUR NETID (ex: donn7)] -s https://uic.blackboard.com -m -B chrome
 ```
+- Then enter your **Login Password** as prompted
+- Authenticate your system by entering **YOUR COMPUTER LOGIN PASSWORD** (for Mac/Windows) so it can open your **UIC BlackBoard Browser**
+- The script would **AUTOMATICALLY DOWNLOAD ALL YOUR BLACKBOARD ACTIVE COURSES' CONTENT** (so do this before they turn to private at the end of every semester)
+- Can **customize** the **EXECUTING** COMMAND **without the flags** for **login ID (netID)** and **Institution BlackBoard URL** (ex: https://uic.blackboard.com) for other institutions without any problem!
+- Good luck!
+
+## Setup
+
+##### Using Source (All Commands are Executed in the Command Line or Terminal)
+
+1. [Clone](https://github.com/ghandle18/blackboard-uic-downloader.git) this repository.
+2. Have [Python 3](https://www.python.org/downloads/) installed
+3. Install required modules using `pip install -r requirements.txt` or `pip3 install -r requirements.txt` or `python -m pip install -r requirements.txt`
+4. Navigate to downloaded repository and run command `python3 main.py -u [YOUR NETID (ex: donn7)] -s https://uic.blackboard.com -m -B chrome`
+
 
 # MAINTAINED
+Cloned, inspired and modified from this original repo: [github.com/TimEnglart/BlackBoard-Course-Downloader](https://github.com/TimEnglart/BlackBoard-Course-Downloader.git)
 
+** Added some updates & customization for UIC STUDENTS and for SIMPLER bypass.**
 
+# ** ORIGINAL README BELOW FOR REFERENCE, FOR ACTUAL USAGE, UTILIZE INSTRUCTIONS ABOVE!
 ---
 
 # BlackBoard Course Downloader
