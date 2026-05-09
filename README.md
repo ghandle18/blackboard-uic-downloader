@@ -1,6 +1,6 @@
-# FOR FUTURE USAGE RUN THIS:
+# FOR FUTURE USAGE SIMPLY RUN THIS:
 ```txt
-python3 main.py -u ldang7 -s https://uic.blackboard.com -m -B chrome
+python3 main.py -u [YOUR NETID (ex: donn7)] -s https://uic.blackboard.com -m -B chrome
 ```
 
 # NO LONGER MAINTAINED
