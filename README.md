@@ -3,8 +3,8 @@
 python3 main.py -u [YOUR NETID (ex: donn7)] -s https://uic.blackboard.com -m -B chrome
 ```
 
-# NO LONGER MAINTAINED
-## Due to my graduation I no longer have access to my Institutes Blackboard Service, so I can no longer test or verify compatability with my particular University (James Cook University)
+# MAINTAINED
+
 
 ---
 
