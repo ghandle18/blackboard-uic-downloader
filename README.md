@@ -13,6 +13,7 @@ python3 main.py -u [YOUR NETID (ex: donn7)] -s https://uic.blackboard.com -m -B 
 - Authenticate your system by entering **YOUR COMPUTER LOGIN PASSWORD** (for Mac/Windows) so it can open your **UIC BlackBoard Browser**
 - The script would **AUTOMATICALLY DOWNLOAD ALL YOUR BLACKBOARD ACTIVE COURSES' CONTENT** (so do this before they turn to private at the end of every semester)
 - Can **customize** the **EXECUTING** COMMAND **without the flags** for **login ID (netID)** and **Institution BlackBoard URL** (ex: https://uic.blackboard.com) for other institutions without any problem!
+- NOTE: this current version **only works** with the **-m flag** specified, if not it will terminates! more updates in the future!
 - Good luck!
 
 ## Setup
